@@ -1,15 +1,19 @@
-## Hi there 👋
+# I'm a full stack engineer living in Sibiu, Romania. 👋
 
 My prefered stack is FERN (Firestore Express React Node)
 
-## I’m looking to collaborate on \*ERN projects with passionate & constructive people.
+# I’m looking to collaborate on \*ERN projects with passionate & constructive teams.
 
 Currently working on my own Content Management System for creating secure, fast, zero-cost[^1], scalable web apps.
 
----
+<!-- --- -->
 
 <details>
-  <summary>🌱 Continously researching & improving</summary>
+  <summary>
+
+# 🌱 Continously researching & improving
+
+  </summary>
   <p>
 
 I'm passionate about:
@@ -26,8 +30,6 @@ If I need a tool I usually buy it. Got lots of tools and I know exacly where the
 
   </p>
 </details>
-
----
 
 [^1]: within 50k reads and 20k writes from/to the db
 
