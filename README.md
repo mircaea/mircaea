@@ -1,8 +1,8 @@
-## Hi there. 👋
+### Hi there. 👋
 
 My prefered stack is FERN (Firestore Express React Node)
 
-## I’m looking to collaborate on \*ERN projects with passionate & constructive teams.
+### I’m looking to collaborate on \*ERN projects with passionate & constructive teams.
 
 Currently working on my own Content Management System for creating secure, fast, zero-cost[^1], scalable web apps.
 
@@ -11,7 +11,7 @@ Currently working on my own Content Management System for creating secure, fast,
 <details>
   <summary>
 
-## 🌱 Continously researching & improving
+### 🌱 Continously researching & improving
 
   </summary>
   <p>
