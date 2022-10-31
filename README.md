@@ -4,23 +4,23 @@ My prefered stack is FERN (Firestore Express React Node)
 
 I’m looking to collaborate on \*ERN projects in transparent & constructive environments.
 
-Currently creating a proprietary Content Management System for secure, fast, affortable[^1] and scalable web apps.
+Currently creating a proprietary Content Management System for secure, fast, affordable[^1] and scalable web apps.
 
 <!-- --- -->
 
 <details>
   <summary>
 
-### 🌱 Continously researching & improving
+### 🌱 Continuously researching & improving
 
   </summary>
   <p>
 
 - design | creating useful things | helping out | solving problems
 
-- sensors & embeded technologies
+- sensors & embedded technologies
 
-- bio-hacking | sports | wellbeing
+- biohacking | sports | wellbeing
 
   </p>
 </details>
