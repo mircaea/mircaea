@@ -1,10 +1,10 @@
-### Hi there. 👋
+## Hi there. 👋
 
 My prefered stack is FERN (Firestore Express React Node)
 
-### I’m looking to collaborate on \*ERN projects with passionate & constructive teams.
+I’m looking to collaborate on \*ERN projects in transparent & constructive environments.
 
-Currently working on my own Content Management System for creating secure, fast, zero-cost[^1], scalable web apps.
+Currently creating a proprietary Content Management System for secure, fast, affortable[^1] and scalable web apps.
 
 <!-- --- -->
 
@@ -16,22 +16,16 @@ Currently working on my own Content Management System for creating secure, fast,
   </summary>
   <p>
 
-I'm passionate about:
-
-- designing & building useful things
-
-- solving problems
+- design | creating useful things | helping out | solving problems
 
 - sensors & embeded technologies
 
-- bio-hacking & sports
-
-If I need a tool I usually buy it. Got lots of tools and I know exacly where they are. ✨
+- bio-hacking | sports | wellbeing
 
   </p>
 </details>
 
-[^1]: within 50k reads and 20k writes from/to the db
+[^1]: zero-costs while within 50k reads and 20k writes from/to the db
 
 <!--
 **mircaea/mircaea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
