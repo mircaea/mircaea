@@ -1,13 +1,16 @@
 ## Hi there. 👋
 
-My prefered stack is FERN (Firestore Express React Node)
+My prefered stack is M/F ERN (MongoDB/Firestore Express React Node) with TypeScript, Redux with slices.
 
-I’m looking to collaborate on \*ERN projects in transparent & constructive environments.
+I’m open to working in dynamic teams on projects using modern technologies.
 
 Currently creating a proprietary Content Management System for secure, fast, affordable[^1] and scalable web apps.
 
+[^1]: zero-costs while within 50k reads and 20k writes from/to the db
+
 <!-- --- -->
 
+<!--
 <details>
   <summary>
 
@@ -25,9 +28,6 @@ Currently creating a proprietary Content Management System for secure, fast, aff
   </p>
 </details>
 
-[^1]: zero-costs while within 50k reads and 20k writes from/to the db
-
-<!--
 **mircaea/mircaea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 A live client-side demo [work in progress] can be found at [Stomable.com](https://stomable.com).
