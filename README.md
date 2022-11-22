@@ -2,8 +2,6 @@
 
 My prefered stack is FERN (Firestore Express React Node) with TypeScript and Redux toolkit.
 
-I’m open to working in dynamic teams on projects using modern technologies.
-
 Currently creating a Content Management System for secure, fast, affordable[^1] and scalable web apps.
 
 [^1]: zero-costs while within 50k reads and 20k writes from/to the db
