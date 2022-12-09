@@ -1,35 +1,14 @@
-###  👋
+###  👋 
 
-My prefered stack is FERN (Firestore Express React Node) with TypeScript and Redux toolkit.
+My fast stack is FERN (Firestore Express React Node) with TypeScript, Redux toolkit + Context API, CSS Modules.
 
-Currently creating a Content Management System for secure, fast, affordable[^1] and scalable web apps.
+Created my simplified Content Management System for secure, fast, affordable[^1] and scalable web apps using React, context API, CSS modules. [Demo](https://stomable.com)
+
+Creating an Open Source monorepo with micro frontends @ [totpenet](https://github.com/mircaea/totpenet) - too fresh to advertise & ask for pull requests.
 
 [^1]: zero-costs while within 50k reads and 20k writes from/to the db
 
-<!-- --- -->
-
-<!--
-<details>
-  <summary>
-
-### 🌱 Continuously researching & improving
-
-  </summary>
-  <p>
-
-- design | creating useful things | helping out | solving problems
-
-- sensors & embedded technologies
-
-- biohacking | sports | wellbeing
-
-  </p>
-</details>
-
-**mircaea/mircaea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-A live client-side demo [work in progress] can be found at [Stomable.com](https://stomable.com).
-
+<!-- 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -40,4 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
