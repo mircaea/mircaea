@@ -1,10 +1,10 @@
 ###  👋 
 
-My fast stack is FERN (Firestore Express React Node) with TypeScript, Redux toolkit + Context API, CSS Modules.
+My fast stack is FERN (Firestore Express React Node) with TypeScript & Redux toolkit.
 
 Created my simplified Content Management System for secure, fast, affordable[^1] and scalable web apps using React, context API, CSS modules. [Demo](https://stomable.com)
 
-Creating an Open Source monorepo with micro frontends @ [totpenet](https://github.com/mircaea/totpenet) - too fresh to advertise & ask for pull requests.
+Created an open source monorepo with micro frontends @ [totpenet](https://github.com/mircaea/totpenet).
 
 [^1]: zero-costs while within 50k reads and 20k writes from/to the db
 
